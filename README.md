@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simle demo of Rails app in Rails API mode. It has a books scaffold.
 
-Things you may want to cover:
+## Rails Setup
 
-* Ruby version
+    git clone https://github.com/tongueroo/demo-rails-api
+    cd demo-rails-api
+    # edit config/database.yml with the desired database endpoint
+    bundle
+    rails db:create db:migrate
+    rails server # start server
 
-* System dependencies
+Now you can should be able to go to the url endpoints to see the demo page.
 
-* Configuration
+* http://localhost:3000
+* http://localhost:3000/books # demo CRUD with books
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Original Project Creation
 
-* Deployment instructions
+The project was originally generated with these commands:
 
-* ...
+    rails new my_api --api --database mysql
+    cd my_api
+    rails g scaffold Book title:string
