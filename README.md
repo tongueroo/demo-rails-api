@@ -16,9 +16,6 @@ Now you can should be able to go to the url endpoints to see the demo page.
 * http://localhost:3000
 * http://localhost:3000/books # demo CRUD with books
 
-
-
-
 ## Original Project Creation
 
 The project was originally generated with these commands:
