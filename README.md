@@ -40,10 +40,6 @@ To deploy this Rails app to AWS Lambda you can use [Jets Afterburner](http://rub
 
 Here's the blog article that covers it: [Jets Afterburner: Serverless Rails on AWS Lambda in 5 Minutes](https://blog.boltops.com/2018/12/21/jets-afterburner-serverless-rails-on-aws-lambda-in-5-minutes)
 
-Also here's the link to the [Live Demo](https://afterburner.demo.rubyonjets.com/)
-
-If you find Jets interesting, please it a GitHub star [tongueroo/jets](https://github.com/tongueroo/jets). It helps others find out about the project.  I'd appreciate it!
-
 Also here's the link to the [Live Rails API Mode Demo](https://rails-api.demo.rubyonjets.com/)
 
 If you find Jets interesting, please it a GitHub star [tongueroo/jets](https://github.com/tongueroo/jets). It helps others find out about the project.  I'd appreciate it!
