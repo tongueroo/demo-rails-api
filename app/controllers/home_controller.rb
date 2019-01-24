@@ -18,6 +18,7 @@ private
       },
       message: "If you find Jets interesting, please it a GitHub star tongueroo/jets. It helps others find out about the project. I'd appreciate it!",
       jets: "https://github.com/tongueroo/jets",
+      special_chars: "é, ê and ã",
     }
   end
 end
